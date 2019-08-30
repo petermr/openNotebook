@@ -13,3 +13,15 @@ Leonie Mueck suggested this topic for the eLifeSprint in Cambridge 20190904. My 
 
 See https://github.com/petermr/quantumchem which has a good example of how to create a dictionary from Wikipedia page.
 
+## shared resources
+These projects will all be using the same resources and so documentation can be done here and shared.
+### EuropePubMedCentral
+
+### ContentMine software
+#### getpapers
+#### ami
+
+### dictionaries
+
+### Wikimedia 
+Wikipedia and Wikidata
