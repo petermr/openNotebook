@@ -33,12 +33,27 @@ These projects will all be using the same resources and so documentation can be 
 The tools were developed for and used in the [TIGR2ESS workshop in New Delhi 20190228](https://github.com/petermr/tigr2ess/). We'll often point to the tutorials there, but rememebr they were developedfor a particular, real-life,  occasion and a specific subject (crops (rice, wheat, millets)).
 
 ### EuropePubMedCentral
+[Tutorial](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/eupmc_documentation.md) from Vinita Lamba. Shows what EPMC does, how to search it manually.
 
 ### ContentMine software
+ContentMine has two main tools, the first for searching/downloading; the second for analysing
+
 #### getpapers
+[Tutorial](https://github.com/petermr/tigr2ess/blob/master/getpapers/TUTORIAL.md) from Ambarish Kuamr. Shows how to automatically search and download from EPMC.
+
 #### ami
+[Tutorial](https://github.com/petermr/tigr2ess/blob/master/search/TUTORIAL.md) from Amit Yadav. Start here to analyze downloaded papers.
 
 ### dictionaries
+[Tutorial](https://github.com/petermr/tigr2ess/blob/master/dictionaries/TUTORIAL.md) on dictionary structure, how to create them manually and programmatically from lists and pages, especially Wikipedia.
 
 ### Wikimedia 
-Wikipedia and Wikidata
+[Wikipedia](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Wikipedia.md) rather truncated.
+
+[Wikidata](https://github.com/petermr/tigr2ess/blob/master/wikimedia/wikidata.md) introduction.
+
+[WikiFactMine](https://github.com/petermr/tigr2ess/blob/master/wikimedia/WikiFactMine.md) ContentMine's dictionaries created from 
+Wikidata, and searchable via SPARQL.
+
+
+
