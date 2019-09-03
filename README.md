@@ -1,8 +1,13 @@
-# openNotebook
-Communal methods and links to sub-projects using OpenNotebookScience
+# openNotebook launched at elifeSprint Cambridge 2019
+This toplevel resurce supports both the general concept of literature-based OpenNoteBook Science and also 3
+specific projects (climate, plant oils, computational chemistry). For anyone at the sprint this is the first place to come.
+We will also use the [Issues](issues) to create a general discourse and report errors.
 
+## Dedication
+This site is dedicated to Jean-Claude Bradley (v.i.), and also to my father (David Murray-Rust) headmaster at [Sidcot School](http://en.wikipedia.org/wiki/Sidcot_school) for 11 years. David gave me a love of science, teaching and collaboration. My brother Hammond is giving the Darwen lecture in 2 weeks tie and I'll introduce the `climate` part of this to the school then and invite collaboration. 
 ## Opennotebook science
-The term ["OpenNotebookScience"](https://en.wikipedia.org/wiki/Open-notebook_science) (ONS)  was conceived and popularised by [Jean-Claude Bradley](https://en.wikipedia.org/wiki/Jean-Claude_Bradley)
+The term ["OpenNotebookScience"](https://en.wikipedia.org/wiki/Open-notebook_science) (ONS)  was conceived and popularised by [Jean-Claude Bradley](https://en.wikipedia.org/wiki/Jean-Claude_Bradley). This site is jointly dedicated to him. Jean-Claude showed that can and almost always should be fully Open, where everything is visible on the public web as soon as it is created (i.e. within minutes). J-C's phrase was "no insider knowledge", i.e. everybody reading the site can know what experiments, data, discourse, computation has taken place. It may or may not mean that anyone can take part.
+In this OpenNoteBook everyone can, in principle, take part but they need a basic knowledge of the technology, and a collaborative approach, with a certain amount of discipline.
 
 ## motivation
 Catalyzed by several things:
