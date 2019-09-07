@@ -9,8 +9,8 @@ This site is dedicated to Jean-Claude Bradley (v.i.), and also to my father (Dav
 The term ["OpenNotebookScience"](https://en.wikipedia.org/wiki/Open-notebook_science) (ONS)  was conceived and popularised by [Jean-Claude Bradley](https://en.wikipedia.org/wiki/Jean-Claude_Bradley). This site is jointly dedicated to him. Jean-Claude showed that can and almost always should be fully Open, where everything is visible on the public web as soon as it is created (i.e. within minutes). J-C's phrase was "no insider knowledge", i.e. everybody reading the site can know what experiments, data, discourse, computation has taken place. It may or may not mean that anyone can take part.
 In this OpenNoteBook everyone can, in principle, take part but they need a basic knowledge of the technology, and a collaborative approach, with a certain amount of discipline and will need to be invited to be part of the repo.
 
-## motivation
-Catalyzed by several things:
+## motivation for this site
+Catalyzed by three projects but adaptable to any subject with open access papers and an enthusiastic community:
 
 ### quantum chemistry
 Leonie Mueck suggested this topic for the eLifeSprint in Cambridge 20190904. PMR emphasis in QChem is computation of chemical properties
@@ -59,6 +59,14 @@ ContentMine has two main tools, the first for searching/downloading; the second 
 
 [WikiFactMine](https://github.com/petermr/tigr2ess/blob/master/wikimedia/WikiFactMine.md) ContentMine's dictionaries created from 
 Wikidata, and searchable via SPARQL.
+
+## other tools
+### Crossref
+Crossref holds metadata on "every" published  article submmited by publishers (but not theses, etc.). This normally holds a DOI which can be used to find the article on a publisher's site (or through Unpaywall). [Crossref](tools/Crossref.md)
+### Unpaywall
+Unpaywall holds the addresses and metadata of "most" articles which are "freely available legally". This is a difficult task and depends on getting metadata from repositories and other sites that hold them. 
+[Unpaywall site](https://unpaywall.org/)
+
 
 
 
