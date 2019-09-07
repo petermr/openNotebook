@@ -62,10 +62,10 @@ Wikidata, and searchable via SPARQL.
 
 ## other tools
 ### Crossref
-Crossref holds metadata on "every" published  article submmited by publishers (but not theses, etc.). This normally holds a DOI which can be used to find the article on a publisher's site (or through Unpaywall). [Crossref](tools/Crossref.md)
+Crossref holds metadata on "every" published  article submmited by publishers (but not theses, etc.). This normally holds a DOI which can be used to find the article on a publisher's site (or through Unpaywall). [Crossref resources](tools/Crossref.md)
 ### Unpaywall
 Unpaywall holds the addresses and metadata of "most" articles which are "freely available legally". This is a difficult task and depends on getting metadata from repositories and other sites that hold them. 
-[Unpaywall site](https://unpaywall.org/)
+[Unpaywall resources](tools/Unpaywall.md/)
 
 
 
