@@ -62,6 +62,9 @@ ContentMine has two main tools, the first for searching/downloading; the second 
 [WikiFactMine](https://github.com/petermr/tigr2ess/blob/master/wikimedia/WikiFactMine.md) ContentMine's dictionaries created from 
 Wikidata, and searchable via SPARQL.
 
+## XML for Openscience
+I am presenting CEV to XML Summerschool in Oxford 2019-09-18 and will use [medicinal plants](http://github.com/petermr/CEVOpen) as examples. I have therefore separated the XML technology into [XML for Open Science](http://github.com/petermr/xmlopensci)
+
 ## other tools
 ### Crossref
 Crossref holds metadata on "every" published  article submmited by publishers (but not theses, etc.). This normally holds a DOI which can be used to find the article on a publisher's site (or through Unpaywall). [Crossref resources](tools/Crossref.md)
