@@ -19,6 +19,8 @@ Leonie Mueck suggested this topic for the eLifeSprint in Cambridge 20190904. PMR
 
 See https://github.com/petermr/quantumchem which has a good example of how to create a dictionary from Wikipedia page.
 
+(**20190912: This is currently on hold - until Leonie wants to re-activate.**)
+
 ### climate change
 PeterMR and Simon Worthington met virtually and are creatin a shared OpenScience project for mining papers on climate chane - EPMC has > 65K open access papers.
 
